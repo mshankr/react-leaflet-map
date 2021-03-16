@@ -1,6 +1,6 @@
 # React Leaflet Map
 
-## [DEMO]()
+## [DEMO](https://mshankr.github.io/react-leaflet-map)
 
 # Tech
 
@@ -10,4 +10,4 @@
 - Tachyons
 - Faker.js
 
-This is just to familiarise with leaflet and react-leaflet, refs and passing props. Select points from table.
+This is just to familiarise with leaflet and react-leaflet, refs and passing props. Select points from table, highlight on map.
